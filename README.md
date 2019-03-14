@@ -25,6 +25,10 @@ We highly recommend integrating Instabug’s framework as they compiled a lot of
 [![](https://instabug-ga.appspot.com/UA-41982088-6/github/ultimateAndroidReference?pixel)](https://instabug.com)
 
 
+## Supported with :heart: by [Instabug](https://try.instabug.com/android)
+
+[![Instabug](https://user-images.githubusercontent.com/9888943/33328761-84021b2e-d463-11e7-87bc-5b876ca94e69.gif)](https://try.instabug.com/android)
+
 ## Contribution Guide
 
 This project is open to all kinds of contribution in all of its categories. **Together, we can make it the ultimate Android reference available for free, for everyone, forever.**
